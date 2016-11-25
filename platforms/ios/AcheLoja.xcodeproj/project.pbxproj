@@ -351,6 +351,7 @@
 				INFOPLIST_FILE = "AcheLoja/AcheLoja-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				PRODUCT_NAME = "AcheLoja";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -370,6 +371,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "AcheLoja/AcheLoja-Info.plist";
 				PRODUCT_NAME = "AcheLoja";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -397,6 +399,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				PRODUCT_NAME = "AcheLoja";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -423,6 +426,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				PRODUCT_NAME = "AcheLoja";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

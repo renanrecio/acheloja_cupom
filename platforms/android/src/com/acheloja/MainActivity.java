@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.phonegap.acheloja;
+package com.acheloja;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
