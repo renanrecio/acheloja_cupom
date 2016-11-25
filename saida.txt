@@ -1,0 +1,64 @@
+[36m[phonegap][39m starting app server...
+[36m[phonegap][39m listening on 192.168.0.129:3000
+[36m[phonegap][39m listening on 192.168.56.1:3000
+[36m[phonegap][39m 
+[36m[phonegap][39m ctrl-c to stop the server
+[36m[phonegap][39m 
+[36m[phonegap][39m 400 /socket.io/?EIO=3&transport=polling&t=LYPIDdC&sid=YbsomGBxPJxHnJpHAAAA
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been modified to be: <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com https://api.spotify.com 'unsafe-eval' 'unsafe-inline' ws://* * ws:;style-src 'self' 'unsafe-inline' data: blob:;media-src *;img-src * data: 'self' content:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been modified to be: <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com https://api.spotify.com 'unsafe-eval' 'unsafe-inline' ws://* * ws:;style-src 'self' 'unsafe-inline' data: blob:;media-src *;img-src * data: 'self' content:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been modified to be: <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com https://api.spotify.com 'unsafe-eval' 'unsafe-inline' ws://* * ws:;style-src 'self' 'unsafe-inline' data: blob:;media-src *;img-src * data: 'self' content:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m [33m[console.warn][39m Content Security Policy has been added: <meta http-equiv="Content-Security-Policy" content="default-src * gap: ws: https://ssl.gstatic.com;img-src 'self' data: content:;style-src 'self' 'unsafe-inline' data: blob:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+[36m[phonegap][39m 200 /__api__/appzip
+[36m[phonegap][39m 200 /socket.io/socket.io.js
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZXB
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZjC&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m Device is ready!
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZso&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m Device Push ID: 
+[36m[phonegap][39m di9VPnJkx-I:APA91bFQRdK2QbE4A9aB6CVSShRufqoFGuvy3InzXkLYLRlabBzdh0iAuExuC_nAbekSH8qpBq9X9JHmYw0yHjtmtdYKPF900Iuj7fSEQrcxCX2owJxCqQZxgwzpN2aqShUI5lztH5dx
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZuJ&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m registration event: di9VPnJkx-I:APA91bFQRdK2QbE4A9aB6CVSShRufqoFGuvy3InzXkLYLRlabBzdh0iAuExuC_nAbekSH8qpBq9X9JHmYw0yHjtmtdYKPF900Iuj7fSEQrcxCX2owJxCqQZxgwzpN2aqShUI5lztH5dx
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZua&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIZnX&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIfpr&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIfqR&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIlx4&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIlxS&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIs27&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIs3c&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIyAM&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPIyBq&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJ2IV&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJ2JW&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJ8QC&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJ8RV&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJEY8&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJEYr&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJKfW&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m notification event
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJPih&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m success
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJPjB&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJKg5&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJQmj&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m notification event
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJTs_&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m [32m[console.log][39m success
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJTtj&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJQnF&sid=rR_I8gwGeOkQO9CvAAAA
+[36m[phonegap][39m 200 /socket.io/?EIO=3&transport=polling&t=LYPJWtv&sid=rR_I8gwGeOkQO9CvAAAA
+Deseja finalizar o arquivo em lotes (S/N)? 
