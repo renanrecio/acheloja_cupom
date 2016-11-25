@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Hello World</name>
+    <name>AcheLoja</name>
     <description>
-        A basic Framework7 Media App for PhoneGap.
+        Ache Loja
     </description>
     <author email="tommy@devgeeks.org" href="http://phonegap.com">
-        Adobe PhoneGap Team
+        AcheLoja
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -21,6 +21,9 @@
     <platform name="android">
         <preference name="android-minSdkVersion" value="14" />
         <allow-intent href="market:*" />
+		<icon src="icone.png"/>
+		<icon src="www/icone.png"/>
+		<icon src="www/icone.png" gap:platform="android" />
         <icon density="ldpi" src="res/icon/android/ldpi/icon.png" />
         <icon density="mdpi" src="res/icon/android/mdpi/icon.png" />
         <icon density="hdpi" src="res/icon/android/hdpi/icon.png" />
